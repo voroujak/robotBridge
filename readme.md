@@ -21,3 +21,22 @@ each module can be run and be triggered by a ros_topic.
 rqt_graph:
 ---
 ![picture](rosgraphAll.svg)
+
+@article{faridghasemnia2020towards,
+  title={Towards abstract relational learning in human robot interaction},
+  author={Faridghasemnia, Mohamadreza and Nardi, Daniele and Saffiotti, Alessandro},
+  journal={arXiv preprint arXiv:2011.10364},
+  year={2020}
+}
+
+If you use this project in your works, please cite: 
+@inproceedings{faridghasemnia2019capturing,
+  title={Capturing frame-like object descriptors in human augmented mapping},
+  author={Faridghasemnia, Mohamadreza and Vanzo, Andrea and Nardi, Daniele},
+  booktitle={AI* IA 2019--Advances in Artificial Intelligence: XVIIIth International Conference of the Italian Association for Artificial Intelligence, Rende, Italy, November 19--22, 2019, Proceedings 18},
+  pages={392--404},
+  year={2019},
+  organization={Springer}
+}
+
+

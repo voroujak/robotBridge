@@ -16,7 +16,7 @@ Testing:
 main.py and /naoqi_ASR/bestSpeechHypothesis can generate answers.
 each module can be run and be triggered by a ros_topic.
 
-@author: Mohamadreza Faridghasemnia (voroujak)
+@author: M. Farid. (voroujak)
 
 rqt_graph:
 ---
